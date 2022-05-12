@@ -1,0 +1,9 @@
+D:\Projects\VisualStudio\AddToAutorun\AddToAutorun\bin\Release\AddToAutorun.exe.config
+D:\Projects\VisualStudio\AddToAutorun\AddToAutorun\bin\Release\AddToAutorun.exe
+D:\Projects\VisualStudio\AddToAutorun\AddToAutorun\bin\Release\AddToAutorun.pdb
+D:\Projects\VisualStudio\AddToAutorun\AddToAutorun\obj\Release\AddToAutorun.Form1.resources
+D:\Projects\VisualStudio\AddToAutorun\AddToAutorun\obj\Release\AddToAutorun.Properties.Resources.resources
+D:\Projects\VisualStudio\AddToAutorun\AddToAutorun\obj\Release\AddToAutorun.csproj.GenerateResource.cache
+D:\Projects\VisualStudio\AddToAutorun\AddToAutorun\obj\Release\AddToAutorun.csproj.CoreCompileInputs.cache
+D:\Projects\VisualStudio\AddToAutorun\AddToAutorun\obj\Release\AddToAutorun.exe
+D:\Projects\VisualStudio\AddToAutorun\AddToAutorun\obj\Release\AddToAutorun.pdb
